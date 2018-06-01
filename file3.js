@@ -1,1 +1,1 @@
-var a = "algo";
+var a = "otro";
